@@ -20,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SW9Bz9WT9d9oZZSLqW1Zma5cnm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -86,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571668353011</updated>
       <workItem from="1571668355552" duration="250000" />
-      <workItem from="1571668617522" duration="15138000" />
+      <workItem from="1571668617522" duration="15729000" />
     </task>
     <servers />
   </component>
